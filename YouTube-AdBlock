@@ -56,7 +56,6 @@
 0.0.0.0 googleads4.g.doubleclick.net
 0.0.0.0 googleadservices.com
 0.0.0.0 googletagmanager.com
-0.0.0.0 i1.ytimg.com
 0.0.0.0 innovid.com
 0.0.0.0 iv.doubleclick.net
 0.0.0.0 l.doubleclick.net
@@ -97614,7 +97613,6 @@
 0.0.0.0 redirector.googlevideo.com
 0.0.0.0 rtd.tubemogul.com
 0.0.0.0 s.innovid.com
-0.0.0.0 s.ytimg.com
 0.0.0.0 s0.2mdn.net
 0.0.0.0 s1.2mdn.net
 0.0.0.0 secure-ds.serving-sys.com
